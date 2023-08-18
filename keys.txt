@@ -1,0 +1,3 @@
+client id: b7e1810a-973c-4f80-84f5-f078be10e384
+tenant id: 8a2efb46-ae75-4972-b10f-bb21c59bd8bf
+secret key1: YxQ8Q~z3gs-~F-3BuZAm~NnRQ2AhvMI~StQDFb9u
